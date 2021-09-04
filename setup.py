@@ -1,3 +1,5 @@
+pip install praw
+
 import praw
 
 
