@@ -8,7 +8,7 @@ reddit = praw.Reddit(
         user_agent="by u/Sam-Kinison-Bot",
         client_id="hoT0dxAKni29GjA9XEJOmA",
         client_secret="xnAqn5RemYcstRoKA4zBpTUNMmibzQ",
-        username="Sam-Kinison-Bot",
+        username="gaulentmaiden",
         password="WeRGr00t",)
 
 previous_id="0"
