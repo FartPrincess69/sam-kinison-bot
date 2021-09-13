@@ -1,2 +1,2 @@
 web: python setup.py
-web: gunicorn app:app --log-file=-
+web: gunicorn setup:app
