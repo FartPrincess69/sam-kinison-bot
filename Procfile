@@ -1,2 +1,2 @@
-web:gunicorn setup:app
-worker: python setup.py 
+web:gunicorn skb:app
+worker: python skb.py 
