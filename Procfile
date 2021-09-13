@@ -1,2 +1,2 @@
 web: python setup.py
-web: gunicorn setup:app
+web: gunicorn setup.py:app
