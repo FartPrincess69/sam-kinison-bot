@@ -1,5 +1,8 @@
 import praw
 import time
+import flask
+
+myapp = create_app()
 
 reddit = praw.Reddit(  
         user_agent="Sam Kinison Bot" ,
